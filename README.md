@@ -11,7 +11,7 @@ Este projeto Java permite buscar informações de um endereço a partir de um n�
 
 ## ⚙️ Pré-requisitos  
 
-- 🔹 **Java 11** ou superior  
+- 🔹 **Java 11** ou superior  (Java utilizado 17)
 - 🔹 **Maven** (opcional, caso esteja usando para gerenciar dependências)  
 
 ## 🌐 Origem da API  

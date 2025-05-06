@@ -1,6 +1,6 @@
 # 📍 Consulta de Endereço via API Pública  
 
-Este projeto Java permite buscar informações de um endereço a partir de um número de CEP, utilizando uma API pública como a **ViaCEP**. O endereço é exibido no terminal e também salvo em um arquivo `.json`.  
+Este projeto Java permite buscar informações de um endereço a partir de um número de CEP, utilizando uma API pública como a **ViaCEP**. O endereço é exibido no terminal e também salvo em um arquivo `.json` 
 
 ## ✨ Funcionalidades  
 
